@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/sail/compare/v1.39.0...1.x)
+## [Unreleased](https://github.com/laravel/sail/compare/v1.39.1...1.x)
+
+## [v1.39.1](https://github.com/laravel/sail/compare/v1.39.0...v1.39.1) - 2024-11-27
+
+* [1.x] Remove the default `ubuntu` user by [@rojtjo](https://github.com/rojtjo) in https://github.com/laravel/sail/pull/762
 
 ## [v1.39.0](https://github.com/laravel/sail/compare/v1.38.0...v1.39.0) - 2024-11-25
 
